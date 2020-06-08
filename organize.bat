@@ -1,0 +1,1 @@
+C:/Users/mitra/AppData/Local/Programs/Python/Python38-32/python.exe c:/Users/mitra/Desktop/Projects/System/organizeDownloads.py
